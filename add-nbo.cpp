@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<netinet/in.h>
-#include "byte_order.h"
+#include "sum.h"
 
 int main(int argc, char* argv[]){
 	FILE *src1, *src2;;
